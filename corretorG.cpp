@@ -1,3 +1,8 @@
+/*
+*Autor: Anderson Vieira de Lima
+*E-mail: andersonvieira14@gmail.com
+*/
+
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/highgui.hpp"
 #include "opencv2/imgproc.hpp"
