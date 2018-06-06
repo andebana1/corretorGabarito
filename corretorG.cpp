@@ -112,7 +112,7 @@ int main(int argc, char** argv)
         return -1;
     }
 
-    //encontrando os centros de massa
+    //encontrando os momentos
     vector<Moments> mu(contours.size());
     for (int i = 0; i < contours.size(); i++){
         mu[i] = moments( contours[i], false );
